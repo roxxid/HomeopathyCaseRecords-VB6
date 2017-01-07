@@ -1,0 +1,15 @@
+Line 108: Class RichTextLib.RichTextBox of control RichTextBox3 was not a loaded control class.
+Line 120: Class RichTextLib.RichTextBox of control RichTextBox2 was not a loaded control class.
+Line 132: Class RichTextLib.RichTextBox of control RichTextBox1 was not a loaded control class.
+Line 114: The property name _ExtentX in RichTextBox3 is invalid.
+Line 115: The property name _ExtentY in RichTextBox3 is invalid.
+Line 116: The property name _Version in RichTextBox3 is invalid.
+Line 118: The property name TextRTF in RichTextBox3 is invalid.
+Line 126: The property name _ExtentX in RichTextBox2 is invalid.
+Line 127: The property name _ExtentY in RichTextBox2 is invalid.
+Line 128: The property name _Version in RichTextBox2 is invalid.
+Line 130: The property name TextRTF in RichTextBox2 is invalid.
+Line 138: The property name _ExtentX in RichTextBox1 is invalid.
+Line 139: The property name _ExtentY in RichTextBox1 is invalid.
+Line 140: The property name _Version in RichTextBox1 is invalid.
+Line 142: The property name TextRTF in RichTextBox1 is invalid.
